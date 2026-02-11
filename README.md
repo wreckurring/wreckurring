@@ -1,9 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Mohit Kumar**, a second‑year engineering undergrad student from Pune. I enjoy
-building real‑world backend systems, APIs, and full‑stack applications.
-I'm always exploring how software can solve problems simply and
-efficiently.
+I'm [**Mohit**](https://portfolio-new-brown-nine.vercel.app), a developer and undergrad student based in Pune. I enjoy building real‑world backend systems, APIs, and full‑stack applications. I'm always exploring how software can solve problems simply and efficiently.
 
 **These days I'm focused on:**
 - Java, backend development
@@ -19,7 +16,6 @@ efficiently.
 - **[code‑search‑engine](https://github.com/wreckurring/code-search-engine)** - A code indexing and search engine.
 - **[counter](https://github.com/wreckurring/counter)** - A simple vanilla JavaScript project.
 - **[portfolio‑new](https://github.com/wreckurring/portfolio-new)** - My personal portfolio website.
-
 
 ------------------------------------------------------------------------
 
