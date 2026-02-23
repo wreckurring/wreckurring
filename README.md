@@ -11,9 +11,9 @@ I'm [**Mohit**](https://portfolio-new-brown-nine.vercel.app), a developer and un
 
 **Some stuff I built:**
 - **[chatflow](https://github.com/wreckurring/chatflow)** - A Java‑based chat application prototype.
+- **[sketchboard](https://github.com/wreckurring/sketchboard)** - A real-time collaborative drawing tool.
 - **[url‑shortener](https://github.com/wreckurring/url-shortener)** - A simple URL shortening service in Java.
 - **[WreckOn](https://github.com/wreckurring/WreckOn)** - A music streaming platform built with JavaScript.
-- **[code‑search‑engine](https://github.com/wreckurring/code-search-engine)** - A code indexing and search engine.
 - **[counter](https://github.com/wreckurring/counter)** - A simple vanilla JavaScript project.
 - **[portfolio‑new](https://github.com/wreckurring/portfolio-new)** - My personal portfolio website.
 
