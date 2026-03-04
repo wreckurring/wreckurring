@@ -5,7 +5,7 @@ I'm [**Mohit**](https://portfolio-new-brown-nine.vercel.app), a developer and un
 **These days I'm focused on:**
 - Java, backend development
 - Open source contributions
-- Thoughtful projects with polish
+- Projects
 
 ------------------------------------------------------------------------
 
