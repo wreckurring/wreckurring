@@ -23,4 +23,4 @@ I'm [**Mohit**](https://portfolio-new-brown-nine.vercel.app), a developer and un
 
 -   Programming since I was 10.
 -   I haven't tried matcha yet
--   **Hobbies:** Explosive sports
+-   **Hobbies:** sports
