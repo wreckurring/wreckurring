@@ -6,7 +6,7 @@ Architecting scalable backend infrastructures and real-time collaborative system
 
 ---
 
-### 🚀 Technical Arsenal
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Architecting scalable backend infrastructures and real-time collaborative system
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Architecting scalable backend infrastructures and real-time collaborative system
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 * **Portfolio:** [portfolio-new-brown-nine.vercel.app](https://portfolio-new-brown-nine.vercel.app)
 * **LinkedIn:** [linkedin.com/in/mohit-kumar](https://www.linkedin.com/in/mohitkumar143/)
