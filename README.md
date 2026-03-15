@@ -1,26 +1,45 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# Mohit Kumar
 
-I'm [**Mohit**](https://portfolio-new-brown-nine.vercel.app), a developer and undergrad student based in Pune. I enjoy building real‑world backend systems, APIs, and full‑stack applications. I'm always exploring how software can solve problems simply and efficiently.
+**Backend Engineer | Java & Distributed Systems**
 
-**These days I'm focused on:**
-- Java, backend development
-- Open source contributions
-- Projects
+Architecting scalable backend infrastructures and real-time collaborative systems. Passionate about solving complex architectural challenges with clean, efficient, and performant code.
 
-------------------------------------------------------------------------
+---
 
-**Some stuff I built:**
-- **[chatflow](https://github.com/wreckurring/chatflow)** - A Java‑based chat application prototype.
-- **[sketchboard](https://github.com/wreckurring/sketchboard)** - A real-time collaborative drawing tool.
-- **[url‑shortener](https://github.com/wreckurring/url-shortener)** - A simple URL shortening service in Java.
-- **[WreckOn](https://github.com/wreckurring/WreckOn)** - A music streaming platform built with JavaScript.
-- **[counter](https://github.com/wreckurring/counter)** - A simple vanilla JavaScript project.
-- **[portfolio‑new](https://github.com/wreckurring/portfolio-new)** - My personal portfolio website.
+### 🚀 Technical Arsenal
 
-------------------------------------------------------------------------
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, Python, C++ |
+| **Backend** | Spring Boot, Spring Data JPA, Node.js, REST APIs |
+| **Data & Infrastructure** | PostgreSQL, Redis, Docker, H2 |
+| **Tools & Platforms** | Git, Linux |
 
-**Fun Facts:**
+---
 
--   Programming since I was 10.
--   I haven't tried matcha yet
--   **Hobbies:** sports
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[chatflow](https://github.com/wreckurring/chatflow)** | A low-latency real-time messaging engine leveraging WebSockets for instant communication. | Java, Spring Boot |
+| **[sketchboard](https://github.com/wreckurring/sketchboard)** | Real-time collaborative canvas allowing multiple users to synchronize drawings with minimal lag. | Node.js, Socket.io, React |
+| **[url-shortener](https://github.com/wreckurring/url-shortener)** | URL redirection service optimized for rapid lookups and scalability. | Java, Redis |
+| **[hack-manager](https://github.com/wreckurring/hack-manager)** | RESTful API designed to streamline hackathon management. | Spring Boot, JPA, H2 |
+| **[WreckOn](https://github.com/wreckurring/WreckOn)** | Modular music streaming platform focused on seamless state management and UI performance. | JavaScript |
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wreckurring&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wreckurring&layout=compact&theme=transparent)
+
+---
+
+### 📫 Connect with Me
+
+* **Portfolio:** [portfolio-new-brown-nine.vercel.app](https://portfolio-new-brown-nine.vercel.app)
+* **LinkedIn:** [linkedin.com/in/mohit-kumar](https://www.linkedin.com/in/mohitkumar143/)
+* **Email:** [mohitkr.541@gmail.com](mailto:mohitkr.541@gmail.com)
+
+---
+
+Prophecy </>
