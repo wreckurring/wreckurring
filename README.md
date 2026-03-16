@@ -6,17 +6,6 @@ Architecting scalable backend infrastructures and real-time collaborative system
 
 ---
 
-### Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, JavaScript, Python, C++ |
-| **Backend** | Spring Boot, Spring Data JPA, Node.js, REST APIs |
-| **Data & Infrastructure** | PostgreSQL, Redis, Docker, H2 |
-| **Tools & Platforms** | Git, Linux |
-
----
-
 ### Featured Projects
 
 | Project | Description | Tech Stack |
