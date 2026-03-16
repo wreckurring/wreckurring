@@ -13,7 +13,7 @@ Architecting scalable backend infrastructures and real-time collaborative system
 | **[chatflow](https://github.com/wreckurring/chatflow)** | A low-latency real-time messaging engine leveraging WebSockets for instant communication. | Java, Spring Boot |
 | **[sketchboard](https://github.com/wreckurring/sketchboard)** | Real-time collaborative canvas allowing multiple users to synchronize drawings with minimal lag. | Node.js, Socket.io, React |
 | **[url-shortener](https://github.com/wreckurring/url-shortener)** | URL redirection service optimized for rapid lookups and scalability. | Java, Redis |
-| **[hack-manager](https://github.com/wreckurring/hack-manager)** | RESTful API designed to streamline hackathon management. | Spring Boot, JPA, H2 |
+| **[cyclotrack](https://github.com/wreckurring/cyclotrack)** | A full stack Cycles tracking system. | MERN, Websockets |
 | **[WreckOn](https://github.com/wreckurring/WreckOn)** | Modular music streaming platform focused on seamless state management and UI performance. | JavaScript |
 
 ---
