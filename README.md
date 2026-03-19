@@ -2,7 +2,7 @@
 
 # Mohit Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%F0%9F%9A%80;Java+%26+Distributed+Systems+%F0%9F%92%BB;Real-Time+Systems+Architect+%F0%9F%94%A5;Building+Scalable+Infrastructure+%E2%9A%99%EF%B8%8F;Prophecy+%3C%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Distributed+Systems;Real-Time+Systems+Architect;Building+Scalable+Infrastructure;Prophecy+%3C%2F%3E" alt="Typing SVG" />
 
 <br>
 
@@ -40,7 +40,7 @@ const mohitKumar = {
         "Clean Architecture"
     ],
     
-    currentFocus: "Architecting scalable systems & mastering distributed design 🎯",
+    currentFocus: "Architecting scalable systems & mastering distributed design",
     motto: "Prophecy </>"
 };
 ```
