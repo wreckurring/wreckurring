@@ -2,7 +2,7 @@
 
 # Mohit Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Distributed+Systems;Real-Time+Systems+Architect;Building+Scalable+Infrastructure;Prophecy+%3C%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Distributed+Systems;Real-Time+Systems+Architect;Building+Scalable+Infrastructure;Prophecy+</>" alt="Typing SVG" />
 
 <br>
 
