@@ -1,114 +1,51 @@
-<div align="center">
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mohit Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-# Mohit Kumar
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar143)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wreckurring)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mkr.541/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%26+Distributed+Systems;Real-Time+Systems+Architect;Prophecy+</>" alt="Typing SVG" />
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-<br>
+I am a full-stack software engineer. I love programming, writing, speaking and traveling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitkumar143/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-brown-nine.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wreckurring)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mkr.541)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wreckurring)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkr.541@gmail.com)
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-</div>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
----
+**Talking about Personal Stuffs:**
 
-## About Me
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/wavylength);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: mohitkr.541@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 
-```javascript
-const mohitKumar = {
-    handle: "wreckurring",
-    role: "Backend Engineer",
-    location: "Pune, India 🇮🇳",
-    
-    expertise: {
-        core: ["Java", "Spring Boot", "Node.js", "JavaScript"],
-        databases: ["Redis", "MongoDB", "MySQL"],
-        realtime: ["WebSockets", "Socket.io", "Event-Driven Architecture"],
-        frontend: ["React", "MERN Stack"],
-        tools: ["Git", "Docker", "Linux"]
-    },
-    
-    strengths: [
-        "Distributed Systems Design",
-        "Low-Latency Real-Time Systems",
-        "Scalable Backend Infrastructure",
-        "Clean Architecture"
-    ],
-    
-    currentFocus: "Architecting scalable systems & mastering distributed design",
-    motto: "Prophecy </>"
-};
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
 ```
 
----
+<!--END_SECTION:waka-->
 
-## Featured Projects
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **[chatflow](https://github.com/wreckurring/chatflow)** | Low-latency real-time messaging engine using WebSockets | Java, Spring Boot |
-| **[sketchboard](https://github.com/wreckurring/sketchboard)** | Real-time collaborative canvas with multi-user sync | Node.js, Socket.io, React |
-| **[url-shortener](https://github.com/wreckurring/url-shortener)** | URL redirection service optimized for rapid lookups | Java, Redis |
-| **[cyclotrack](https://github.com/wreckurring/cyclotrack)** | Full-stack cycle tracking system with live updates | MERN, WebSockets |
-| **[WreckOn](https://github.com/wreckurring/WreckOn)** | Modular music streaming platform with seamless state management | JavaScript |
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wreckurring&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wreckurring&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ---
-
-## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wreckurring&show_icons=true&theme=transparent&hide_border=true&title_color=00CCFF&icon_color=00CCFF&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wreckurring&layout=compact&theme=transparent&hide_border=true&title_color=00CCFF&text_color=ffffff" height="170"/>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Databases & Real-Time
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohitkumar143/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://portfolio-new-brown-nine.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail)](mailto:mohitkr.541@gmail.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=wreckurring&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)
+ ![Profile Views](https://komarev.com/ghpvc/?username=wreckurring&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
