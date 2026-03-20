@@ -45,7 +45,7 @@ No activity tracked
 
 <div align="center">
 
- ![Profile Views](https://komarev.com/ghpvc/?username=wreckurring&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)
+Mom, am i famous yet? ![Profile Views](https://komarev.com/ghpvc/?username=wreckurring&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
